@@ -12,13 +12,13 @@
 
 **Daniel Jasbick**
 
-* [VP-Viewer](https://github.com/UFFeScience/SAMbA)
+* [VP-Viewer - VP-Tree revisited](https://github.com/UFFeScience/SAMbA)
 
 **Wellington Souza Silva**
 
 * [2PLA - Two-Phase Learning Approach](https://github.com/sswellington/2PLA)
 
-## Old Projects
+## Former Projects
 
 * [Kundaha - Exploring diversified similarity on Content-based Medical Image Retrieval](https://github.com/marcosivni/kundaha)
 
